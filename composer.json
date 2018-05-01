@@ -1,0 +1,14 @@
+{
+    "name": "tlepage/test",
+    "description": "Ceci est un test",
+    "type": "project",
+    "require": {
+        "deployer/deployer": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Thomas Lepage",
+            "email": "thomas.lepage@hotmail.ca"
+        }
+    ]
+}
